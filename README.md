@@ -79,7 +79,7 @@ Admin
 - Milestone 4: Frontend - React UI, API integration, component structure
 
 Screenshots:
- 
+ ![Image](https://github.com/user-attachments/assets/08c8485d-4da9-4278-a736-c831904e6278)
  
 
 
