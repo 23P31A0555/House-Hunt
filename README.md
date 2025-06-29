@@ -80,6 +80,9 @@ Admin
 
 Screenshots:
  ![Image](https://github.com/user-attachments/assets/08c8485d-4da9-4278-a736-c831904e6278)
+
+
+ ![Image](https://github.com/user-attachments/assets/8b492b74-4754-4840-b8be-304aade9ddb2)
  
 
 
