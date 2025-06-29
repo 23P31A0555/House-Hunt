@@ -1,4 +1,7 @@
 🏠 HouseHunt – House Rent App Using MERN
+
+
+
 📌 Table of Contents
 - Introduction
 - Features
@@ -8,8 +11,12 @@
 - Project Demo
 - User Roles
 - Milestones
+
+
 🧩 Introduction
 HouseHunt is a web-based platform that simplifies the house-hunting process by connecting renters and property owners, offering advanced search filters, virtual tours, real-time alerts, and market insights. Admins oversee user verification and system integrity.
+
+
 🔑 Features
 🎯 General
 - Advanced property search with filters (location, price, type, size, etc.)
@@ -22,6 +29,9 @@ HouseHunt is a web-based platform that simplifies the house-hunting process by c
 - Interactive dashboards
 📞 Professional Support
 - Connect with real estate agents, financial planners, and legal experts
+
+
+
 🧱 Tech Stack
 Frontend
 React.js
@@ -34,28 +44,48 @@ Express.js
 MongoDB (via Mongoose)
 JWT Authentication
 Multer (file uploads)
+
+
+
+
+
 📂 Project Structure
 house-rent/
 ├── frontend/    # React UI
 └── backend/     # Node + Express API
+
+
+
+
 🛠️ Installation & Setup
 Prerequisites
 - Node.js & npm: https://nodejs.org/
 - MongoDB: https://www.mongodb.com/
 - Git: https://git-scm.com/
 - A code editor (e.g., VS Code)
+
+- 
 Clone the Project
-git clone https://github.com/awdhesh-student/house-rent.git
+git clone https://github.com/23P31A0555/House-Hunt/tree/main/Code
 cd house-rent
+
+
+
 Install Frontend Dependencies
 cd frontend
 npm install
+
+
+
 Install Backend Dependencies
 cd ../backend
 npm install
 Run the App
 npm start
 # Visit http://localhost:3000
+
+
+
 🔐 User Roles
 Renter
 - Register and log in
@@ -69,6 +99,9 @@ Admin
 - Approve user roles
 - Monitor listings and activity
 - Enforce policies and maintain system
+
+
+
 🚀 Project Demo
 🔗 Demo Video: https://drive.google.com/drive/folders/1jwxGfQnpvL1lGET41Bgq9kQRcjqFaDO5
 🔗 Project Source Code: https://github.com/23P31A0555/House-Hunt/tree/main/Code
@@ -79,6 +112,7 @@ Admin
 - Milestone 4: Frontend - React UI, API integration, component structure
 
 Screenshots:
+
  ![Image](https://github.com/user-attachments/assets/08c8485d-4da9-4278-a736-c831904e6278)
 
 
